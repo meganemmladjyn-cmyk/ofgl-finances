@@ -6,7 +6,7 @@ Dashboard interactif d'analyse des finances locales des communes de Guadeloupe, 
 
 ## Contexte
 
-Les données de finances locales publiées par l'[Observatoire des Finances et de la Gestion publique Locales (OFGL)](https://www.ofgl.fr/) permettent de suivre les équilibres budgétaires des collectivités territoriales. Ce projet rend ces données accessibles et lisibles pour les communes de Guadeloupe, en proposant une exploration visuelle et interactive des comptes 2024.
+Les données de finances locales publiées par l'[Observatoire des Finances et de la Gestion publique Locales (OFGL)](https://www.ofgl.fr/) permettent de suivre les équilibres budgétaires des collectivités territoriales. Ce projet se concentre exclusivement sur les communes de Guadeloupe, en exploitant le millésime 2024 — le plus récent disponible à ce jour.
 
 ---
 
