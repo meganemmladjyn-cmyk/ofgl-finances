@@ -1,0 +1,5 @@
+ofgl-base-communes.csv
+desktop.ini
+__pycache__/
+*.pyc
+.marimo/
