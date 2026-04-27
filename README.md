@@ -30,7 +30,6 @@ Les données de finances locales publiées par l'[Observatoire des Finances et d
 | [Streamlit](https://streamlit.io/) | Framework du dashboard interactif final |
 | [Plotly](https://plotly.com/python/) | Visualisation des données |
 | [pandas](https://pandas.pydata.org/) | Manipulation et analyse des données |
-| [Cursor](https://www.cursor.com/) | Éditeur de code IA pour le développement Streamlit |
 
 ---
 
