@@ -12,7 +12,11 @@ Les données de finances locales publiées par l'[Observatoire des Finances et d
 
 ## Fonctionnalités
 
-- Filtrage des données financières par commune
+- Filtre interactif par commune
+- Barplot comparatif du budget par commune
+- Camembert de répartition du budget par agrégat
+- Scatter plot de corrélation entre population et budget
+- Tableau de données détaillées
 
 ---
 
