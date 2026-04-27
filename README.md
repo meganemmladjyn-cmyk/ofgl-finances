@@ -26,9 +26,11 @@ Les données de finances locales publiées par l'[Observatoire des Finances et d
 | Outil | Rôle |
 |---|---|
 | [Python](https://www.python.org/) | Langage principal |
-| [Streamlit](https://streamlit.io/) | Framework de dashboard interactif |
+| [Marimo](https://marimo.io/) | Nettoyage des données, EDA et visualisation exploratoire |
+| [Streamlit](https://streamlit.io/) | Framework du dashboard interactif final |
 | [Plotly](https://plotly.com/python/) | Visualisation des données |
 | [pandas](https://pandas.pydata.org/) | Manipulation et analyse des données |
+| [Cursor](https://www.cursor.com/) | Éditeur de code IA pour le développement Streamlit |
 
 ---
 
