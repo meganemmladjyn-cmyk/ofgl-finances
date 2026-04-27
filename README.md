@@ -16,6 +16,7 @@ Les données de finances locales publiées par l'[Observatoire des Finances et d
 - Barplot comparatif du budget par commune
 - Camembert de répartition du budget par agrégat
 - Scatter plot de corrélation entre population et budget
+- Heatmap du budget et des dépenses par commune et par agrégat
 - Tableau de données détaillées
 
 ---
